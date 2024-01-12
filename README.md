@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @paulalcssantos
-- 👀 I’m interested in Front End Development and Data Science.
-- 🌱 I’m currently learning HTML, CSS, Javascript and Python.
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
