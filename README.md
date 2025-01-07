@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Paula Luiza!</h1>
-<h3 align="center">Computer Scientist. Postgraduate student in Data Science.</h3>
-
-- 🌱 I’m currently learning **Data Science, specializing in statistics, Python, Machine Learning, AI...**
+<h1 align="center">Hi 👋🏽, I'm Paula Luiza!</h1>
+<h3 align="center">Computer Scientist with a specialization in Data Science.</h3>
 
 - 📫 How to reach me **paulalcssantos@gmail.com**
 
